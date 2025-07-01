@@ -10,7 +10,7 @@ let item = document.querySelector("#lista");
 item.textContent = linguagens[0];
 }
 
-
-let estudantes = ["Ana", "Bruno", "Carlos", "Daniela", "Eduardo"];
-const item = document.querySelector("#alunos");
-item.textContent = estudantes[0];
+let estudantes = ["Ana", "Bruno", "Carlos", "Daniela", "Eduardo"];{
+let item = document.querySelector("#alunos");
+item.textContent = estudantes[1];   
+}
