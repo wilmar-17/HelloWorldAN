@@ -7,7 +7,7 @@ inserirNome()
 
 let linguagens = ["Javascript", "Python", "C"];{
 let item = document.querySelector("#lista");
-item.textContent = linguagens[2];
+item.textContent = linguagens[0];
 }
 
 
